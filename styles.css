@@ -1,3 +1,10 @@
+:root {
+    --accent: #D96C9F;
+    --light: #F2F2F2;
+    --gray: #BFBFBF;
+    --dark: #20788C;
+}
+
 body {
     margin: 0;
 }
