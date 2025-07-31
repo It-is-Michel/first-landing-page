@@ -1,3 +1,7 @@
+body {
+    margin: 0;
+}
+
 .header {
     padding: 0 15vw;
     display: flex;
