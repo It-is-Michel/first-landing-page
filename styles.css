@@ -1,0 +1,13 @@
+.header {
+    padding: 0 15vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul.links {
+    padding: 0;
+    display: flex;
+    gap: 1rem;
+    list-style: none;
+}
