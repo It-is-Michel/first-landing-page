@@ -3,6 +3,10 @@
     --light: #FFFFFF;
     --gray: #CACBD5;
     --dark: #3D4252;
+
+    --logo-font: "DejaVu Sans", serif;
+    --title-font: "FreeSans", serif;
+    --paragraph-font: "Liberation Sans", sans-serif;
 }
 
 * {
