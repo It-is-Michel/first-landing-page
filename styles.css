@@ -35,6 +35,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    background-color: var(--dark);
 }
 
 ul.links {
@@ -42,6 +43,20 @@ ul.links {
     display: flex;
     gap: 1rem;
     list-style: none;
+}
+
+.logo,
+.header .links a {
+    color: var(--light);
+}
+
+.logo {
+    font-family: var(--logo-font);
+    font-weight: bold;
+}
+
+.header .links a {
+    font-family: var(--paragraph-font);
 }
 
 /* hero-section */
