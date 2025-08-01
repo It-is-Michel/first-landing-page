@@ -83,17 +83,17 @@ ul.links {
     color: var(--light);
 }
 
-.announcement-container .title {
+.hero-section .title {
     font-family: var(--title-font);
     font-size: 2.5rem;
     font-weight: 800;
 }
 
-.announcement-container .text {
+.hero-section .text {
     font-family: var(--paragraph-font);
 }
 
-.announcement-container button.sign-up {
+.hero-section button.sign-up {
     padding: 0.2rem 1.3rem;
     font-weight: 800;
 }
