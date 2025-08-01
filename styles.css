@@ -68,6 +68,7 @@ ul.links {
     gap: 2rem;
     padding-top: 15vh;
     padding-bottom: 15vw;
+    background: var(--dark);
 }
 
 .announcement-container {
