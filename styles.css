@@ -13,6 +13,8 @@ body {
     margin: 0;
 }
 
+/* header */
+
 .header {
     padding: 0 15vw;
     display: flex;
@@ -26,6 +28,8 @@ ul.links {
     gap: 1rem;
     list-style: none;
 }
+
+/* hero-section */
 
 .hero-section {
     display: flex;
@@ -57,6 +61,8 @@ ul.links {
     display: flex;
     align-items: center;
 }
+
+/* content-section */
 
 .content-section {
     display: flex;
