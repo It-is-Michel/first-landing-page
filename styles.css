@@ -22,3 +22,34 @@ ul.links {
     gap: 1rem;
     list-style: none;
 }
+
+.hero-section {
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+    gap: 2rem;
+    padding: 20vh 15vw;
+}
+
+.announcement-container {
+    gap: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.announcement-container .title {
+    font-size: 2.5rem;
+    font-weight: 800;
+}
+
+.announcement-container button.sign-up {
+    padding: 0.2rem 1.3rem;
+    font-weight: 800;
+}
+
+.hero-section .picture {
+    min-width: 35vw;
+    display: flex;
+    align-items: center;
+}
