@@ -78,6 +78,7 @@ ul.links {
 }
 
 .announcement-container .title {
+    font-family: var(--title-font);
     font-size: 2.5rem;
     font-weight: 800;
 }
