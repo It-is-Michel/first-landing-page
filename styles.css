@@ -77,6 +77,12 @@ ul.links {
     align-items: flex-start;
 }
 
+.hero-section .title,
+.hero-section .text,
+.hero-section .picture {
+    color: var(--light);
+}
+
 .announcement-container .title {
     font-family: var(--title-font);
     font-size: 2.5rem;
