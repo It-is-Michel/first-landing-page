@@ -102,3 +102,31 @@ ul.links {
     border: 0.25rem solid var(--accent);
     border-radius: 10%;
 }
+
+/* quote section */
+
+.quote-section {
+    height: 24rem;
+    padding: 0 15vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    background-color: rgb(230, 230, 230);
+}
+
+.quote,
+.quote-author {
+    font-family: "Ubuntu Sans", sans-serif;
+}
+
+.quote {
+    font-size: 2rem;
+    font-weight: lighter;
+    font-style: italic;
+}
+
+.quote-author {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
