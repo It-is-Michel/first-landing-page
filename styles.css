@@ -13,16 +13,11 @@ body {
     margin: 0;
 }
 
-/* general settings */
+/* header and hero-section */
 
 .header,
 .hero-section{
     padding: 0 15vw;
-}
-
-.content-section,
-.quote-section {
-    padding: 0 20vw;
 }
 
 /* header */
@@ -72,6 +67,13 @@ ul.links {
     min-width: 35vw;
     display: flex;
     align-items: center;
+}
+
+/* content-section & quote-section */
+
+.content-section,
+.quote-section {
+    padding: 0 20vw;
 }
 
 /* content-section */
