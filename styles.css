@@ -5,6 +5,10 @@
     --dark: #3D4252;
 }
 
+* {
+    box-sizing: border-box;
+}
+
 body {
     margin: 0;
 }
