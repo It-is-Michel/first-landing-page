@@ -89,6 +89,10 @@ ul.links {
     font-weight: 800;
 }
 
+.announcement-container .text {
+    font-family: var(--paragraph-font);
+}
+
 .announcement-container button.sign-up {
     padding: 0.2rem 1.3rem;
     font-weight: 800;
