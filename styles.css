@@ -13,10 +13,11 @@ body {
     margin: 0;
 }
 
-/* header and hero-section */
+/* header & hero-section & cta-section */
 
 .header,
-.hero-section{
+.hero-section,
+.cta-section {
     padding: 0 15vw;
 }
 
@@ -69,7 +70,7 @@ ul.links {
     align-items: center;
 }
 
-/* content-section & quote-section */
+/* content-section & quote-section*/
 
 .content-section,
 .quote-section {
@@ -141,4 +142,22 @@ ul.links {
 .quote-author {
     font-size: 1.2rem;
     font-weight: bold;
+}
+
+/* cta-section */
+
+.cta-section {
+    display: flex;
+    height: 22rem;
+    align-items: center;
+}
+
+.cta-container {
+    flex-grow: 1;
+    height: 8rem;
+    background-color: var(--accent);
+    border-radius: 0.5rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
