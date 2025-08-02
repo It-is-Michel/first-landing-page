@@ -28,7 +28,7 @@ button.sign-up {
     font-size: 0.9rem;
     color: var(--light);
     background-color: var(--accent);
-    border: 0.2rem solid var(--accent);
+    border: 0.15rem solid var(--accent);
     border-radius: 0.5rem;
     padding: 0.5rem 1.5rem;
 }
