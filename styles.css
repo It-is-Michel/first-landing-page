@@ -212,6 +212,10 @@ ul.links {
     align-items: center;
 }
 
+.cta-container button.sign-up {
+    border-color: var(--light);
+}
+
 /* footer */
 
 footer {
