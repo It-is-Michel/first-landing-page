@@ -221,6 +221,23 @@ ul.links {
     flex-direction: column;
 }
 
+.info-container .title,
+.info-container .text {
+    color: var(--light);
+}
+
+
+.info-container .title {
+    font-family: var(--title-font);
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.info-container .text {
+    color: var(--light);
+    font-family: var(--paragraph-font);
+}
+
 /* footer */
 
 footer {
