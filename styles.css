@@ -21,6 +21,22 @@ body {
     margin: 0;
 }
 
+button.sign-up {
+    font-family: var(--paragraph-font);
+    padding: 0.2rem 1.3rem;
+    font-weight: 800;
+    font-size: 0.9rem;
+    color: var(--light);
+    background-color: var(--accent);
+    border: 0.2rem solid var(--accent);
+    border-radius: 0.5rem;
+    padding: 0.5rem 1.5rem;
+}
+
+button.sign-up:hover {
+    background-color: #b65125;
+}
+
 /* header & hero-section & cta-section */
 
 .header,
@@ -92,22 +108,6 @@ ul.links {
 
 .hero-section .text {
     font-family: var(--paragraph-font);
-}
-
-.hero-section button.sign-up {
-    font-family: var(--paragraph-font);
-    padding: 0.2rem 1.3rem;
-    font-weight: 800;
-    font-size: 0.9rem;
-    color: var(--light);
-    background-color: var(--accent);
-    border: 0.2rem solid var(--accent);
-    border-radius: 0.5rem;
-    padding: 0.5rem 1.5rem;
-}
-
-.hero-section button.sign-up:hover {
-    background-color: #b65125;
 }
 
 .hero-section .picture {
