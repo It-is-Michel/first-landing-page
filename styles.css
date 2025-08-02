@@ -113,7 +113,11 @@ ul.links {
 .hero-section .picture {
     min-width: 35vw;
     display: flex;
+    justify-content: center;
     align-items: center;
+    background-color: var(--gray);
+    color: var(--dark);
+    font-family: var(--paragraph-font);
 }
 
 /* content-section & quote-section*/
