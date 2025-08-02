@@ -216,6 +216,11 @@ ul.links {
     border-color: var(--light);
 }
 
+.info-container {
+    display: flex;
+    flex-direction: column;
+}
+
 /* footer */
 
 footer {
